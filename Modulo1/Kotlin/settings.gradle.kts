@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Basics"
 include(":app")
+include(":app")
