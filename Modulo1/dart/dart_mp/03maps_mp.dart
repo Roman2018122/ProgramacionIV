@@ -11,7 +11,7 @@ void main(){
         }
     }
     print('El lugar del evento es: ${evento['lugar']}');
-    print('¿Está vivo? ${evento['isAlive']}');
+    print('¿Está activo? ${evento['isAlive']}');
     print('El primer tipo es: ${evento['tipo'][0]}');
 
 }
